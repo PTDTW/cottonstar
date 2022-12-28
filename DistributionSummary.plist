@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cottonstar.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4D7941A3CA88BA8EE46B04B862428AFC5ADD5DAA</string>
+				<key>dateExpires</key>
+				<string>2023/12/27</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4D7941A3CA88BA8EE46B04B862428AFC5ADD5DAA</string>
+						<key>dateExpires</key>
+						<string>2023/12/27</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>87ZD66F5CJ</string>
+						<key>name</key>
+						<string>Jiayang Tang</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4D7941A3CA88BA8EE46B04B862428AFC5ADD5DAA</string>
+						<key>dateExpires</key>
+						<string>2023/12/27</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>87ZD66F5CJ</string>
+						<key>name</key>
+						<string>Jiayang Tang</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4D7941A3CA88BA8EE46B04B862428AFC5ADD5DAA</string>
+						<key>dateExpires</key>
+						<string>2023/12/27</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>webview_flutter_wkwebview.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>87ZD66F5CJ</string>
+						<key>name</key>
+						<string>Jiayang Tang</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.0.1</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>87ZD66F5CJ.com.example.cottonstar</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>87ZD66F5CJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>aef02274-c59f-4ca9-9f30-0cdb7fd0de22</string>
+				<key>dateExpires</key>
+				<string>2023/12/27</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.example.cottonstar</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>87ZD66F5CJ</string>
+				<key>name</key>
+				<string>Jiayang Tang</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
